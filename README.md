@@ -35,4 +35,22 @@ gsap.to()
 ```
 
 ---
-___
+___ 
+
+ > # Project 2  
+
+ ### Bubble Hit Game using Event Bubbling 
+ This project demonstrates a simple bubble hit game where players aim to hit a target number within a specified time. The game leverages event bubbling to efficiently handle multiple bubble interactions. 
+
+ ## Features
+
+Randomly generated target numbers and bubbles.
+Interactive UI that allows players to hit bubbles.
+Score tracking and display of current score.
+Dynamic bubble creation and removal.
+  
+![important](./README_ASSETS/Preview-2%20.png); 
+![important](./README_ASSETS/pv-2.png);
+
+---
+---
