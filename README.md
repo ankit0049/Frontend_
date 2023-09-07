@@ -54,3 +54,21 @@ Dynamic bubble creation and removal.
 
 ---
 ---
+> # Project-3
+### Tic-Toc-Toe Game  
+
+
+This Project demonstrate simple Tic-Toc -toe game . The Game leverages the Dom mainuplation and Event Handling .  
+
+![img](./README_ASSETS/Project-3.png) 
+
+### Tech Used 
+* Tailwind Css 
+* Javascript 
+* Html   
+
+###### I developed this project independently, but it does have one bug. If anyone is interested in helping resolve it, please feel free to contribute.
+
+> # Project-4 
+ 
+ ### GYM -FITNESS WEBSITES
