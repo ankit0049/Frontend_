@@ -71,4 +71,23 @@ This Project demonstrate simple Tic-Toc -toe game . The Game leverages the Dom m
 
 > # Project-4 
  
- ### GYM -FITNESS WEBSITES
+ ### GYM -FITNESS WEBSITES  
+ 
+![Preview Image](./README_ASSETS/GYM.png) 
+![Preview-2](./README_ASSETS/Gym-2.png)  
+ > The secondary preview image is not just a static element. It responds dynamically to user interaction. When the cursor enters a defined area, the image elegantly tracks its movement. As soon as the cursor leaves, the image gracefully disappears, providing an interactive and engaging user experience.
+
+> ### Tech Used  
+* Html
+* Css 
+* javascript  
+  * Js Basic Concepts
+  *  Gsap 
+  *  ScrollTrigger
+  *  Locomotive 
+  *  JS DOM Mainuplation
+
+This website boasts a unique feature – a custom cursor that incorporates an intriguing mix-blend mode with the background, creating a visually stunning effect. The site also leverages the power of GSAP animations, utilizing ScrollTrigger to seamlessly animate elements on scroll. Upon page reload, the navigation elegantly descends into view, providing a smooth and engaging user experience.
+
+---
+---
