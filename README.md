@@ -91,3 +91,14 @@ This website boasts a unique feature – a custom cursor that incorporates an in
 
 ---
 ---
+> # Project 5 
+### Local Password Manager  
+
+![Password manager](/README_ASSETS/Password.png)
+This Project Basically Stored the Password and Website Name with The Username of That Website .
+
+### Tech stack 
+* Html
+* Css 
+* JavaScript 
+   * Local Storage  

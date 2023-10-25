@@ -28,8 +28,8 @@ init()
 
 var crsr = document.querySelector(".crsr")
 document.addEventListener("mousemove",function(dets){
-    crsr.style.left = dets.x + 20+"px"
-    crsr.style.top = dets.y + 20+"px"
+    crsr.style.left = dets.x + 10+"px"
+    crsr.style.top = dets.y + 10+"px"
 }) 
 
 var swiper = new Swiper(".mySwiper", {
